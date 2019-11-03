@@ -1,5 +1,5 @@
 
-#! usr/bin/env python
+#!/usr/bin/env python
 import sys
 from datetime import datetime
 from math import pi

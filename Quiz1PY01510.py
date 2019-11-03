@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# marsheet programm
+# marksheet programm
 
 per = int(input("Enter percentage obtained: "))
 if per >= 80 and per <=100:
